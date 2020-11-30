@@ -9,4 +9,4 @@
 - 田村 namesin/IoT2020
 - 浅野 swdnktn/IoT2020
 - 小松 Lunaty1341/IoT2020
-- 中野 yuki045679/IOT2020
+- 中野 yuki045679/IoT2020
