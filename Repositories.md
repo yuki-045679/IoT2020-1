@@ -9,7 +9,7 @@
 - 田村 namesin/IoT2020(https://github.com/namesin/IoT2020)
 - 浅野 swdnktn/IoT2020(https://github.com/swdnktn/IoT2020)
 - 小松 Lunaty1341/IoT2020(https://github.com/Lunaty1341/IoT2020)
-- 中野 yuki045679/IoT2020(https://github.com/yuki045679/IoT2020)
+- 中野 yuki045679/IoT2020(https://github.com/yuki-045679/IoT2020)
 - 土居 splash-ryo/IoT2020(https://github.com/splash-ryo/IoT2020)
 - 春日 hiro9474/IoT2020(https://github.com/hiro9474/IoT2020)
 - 木村 gingetu/IoT2020(https://github.com/gingetu/IoT2020)
