@@ -10,3 +10,4 @@
 - 浅野 swdnktn/IoT2020(https://github.com/swdnktn/IoT2020)
 - 小松 Lunaty1341/IoT2020(https://github.com/Lunaty1341/IoT2020)
 - 中野 yuki045679/IoT2020(https://github.com/yuki045679/IoT2020)
+- 木村 gingetu/IoT2020(https://github.com/gingetu/IoT2020)
