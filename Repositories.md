@@ -1,7 +1,7 @@
 # リポジトリ一覧
 - 杉林 cub92/IoT2020(https://github.com/cub92/IoT2020)
-- 杉谷　ryoinn0801/IoT2020(https://github.com/ryoinn0801/IoT2020)
-- 木本  KimotoS/Iot2020(https://github.com/KimotoS/IoT2020)
+- 杉谷 ryoinn0801/IoT2020(https://github.com/ryoinn0801/IoT2020)
+- 木本 KimotoS/Iot2020(https://github.com/KimotoS/IoT2020)
 - 長田 peechan/IoT2020(https://github.com/peechan/IoT2020)
 - 中原 HnR-YUKIMURA/IoT2020(https://github.com/HnR-YUKIMURA/IoT2020)
 - 佐々木 ikokamaru46/IoT2020(https://github.com/ikokamaru46/IoT2020)
